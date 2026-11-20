@@ -9,6 +9,10 @@ sorularını bu araçları çağırarak cevaplar.
 Veri kaynakları: **İş Yatırım** (finansal tablolar), **KAP** (bildirimler),
 **yfinance** (fiyat, OHLCV, döviz/altın) ve **TCMB EVDS** (makro göstergeler).
 
+> **Hazır skill:** Ajanınıza bu araçları ne zaman ve nasıl kullanacağını, veri
+> tuzaklarını ve hazır analiz akışlarını öğreten skill Agensi'de:
+> [BIST Market Data — Borsa Istanbul stock analyst](https://www.agensi.io/skills/bist-market-data-borsa-istanbul-stock-analyst)
+
 ## Araçlar
 
 **Hisse (10):** `detayli_analiz` · `hisse_ara` · `anlik_fiyat` · `gecmis_fiyat` · `sirket_profili` ·
