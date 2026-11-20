@@ -179,3 +179,7 @@ Soru geldiğinde tablo hazırdır ve `hisse_tarama` doğrudan SQLite'tan okur.
 
 Bu sunucu yatırım tavsiyesi vermez. Veriler üçüncü taraf kaynaklardan gelir ve
 gecikmeli ya da hatalı olabilir.
+
+## Lisans
+
+[MIT](LICENSE)
